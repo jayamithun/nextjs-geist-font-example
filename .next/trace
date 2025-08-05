@@ -24,3 +24,5 @@
 [{"name":"next-dev","duration":476412,"timestamp":5399607086,"id":1,"tags":{},"startTime":1754384151529,"traceId":"9c74965ff5a9615e"}]
 [{"name":"next-dev","duration":478110,"timestamp":5434528775,"id":1,"tags":{},"startTime":1754384186451,"traceId":"3f8fffe1903edd83"}]
 [{"name":"next-dev","duration":653224,"timestamp":5595521568,"id":1,"tags":{},"startTime":1754384347443,"traceId":"f3a3afdef9cbc99e"}]
+[{"name":"next-dev","duration":500224,"timestamp":5795568424,"id":1,"tags":{},"startTime":1754384547490,"traceId":"5a39e199af0b2447"}]
+[{"name":"next-dev","duration":2038775812,"timestamp":3834588465,"id":1,"tags":{},"startTime":1754382578145,"traceId":"c725a37ef276081d"}]
